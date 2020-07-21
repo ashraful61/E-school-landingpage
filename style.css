@@ -1,0 +1,106 @@
+body{
+    font-family: Poppins;
+}
+
+.logo-image{
+    width: 200px;
+}
+.signin_btn{
+    width: 104px;
+     /* height: 43px; */
+     border-radius: 33px;
+     background: #21B573;
+     text-align: center;
+     color: #FFFFFF;
+
+}
+.signin_text{
+    color: white;
+}
+.navbar-light .navbar-nav .nav-link{
+    color: #000000;
+}
+.are_ready{
+    height: 24px;
+    font-family: Poppins;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FD511A;
+}
+.get-started{
+padding: 9px 36px;
+/* width: 153px;
+height: 43px; */
+background: #21B573;
+border-radius: 33px;
+color: #FFFFFF;
+border: none;
+}
+.container{
+    margin-bottom: 7%;
+}
+
+.topic_name{
+    font-weight: 500;
+font-size: 24px;
+margin-top: 8%;
+
+
+color: #413960; 
+}
+.topic_des{
+    font-size: 16px;
+line-height: 3px;
+/* identical to box height */
+
+
+color: #585859;
+}
+
+.topics{
+    background: #F8FFFB;
+    border-radius: 10px;
+}
+.topic{
+    background: #FFFFFF;
+box-shadow: 0px 20px 40px rgba(0, 0, 0, 0.1);
+border-radius: 10px;
+}
+
+.online_courses{
+    font-weight: bold;
+font-size: 36px;
+line-height: 54px;
+/* identical to box height */
+margin-bottom: 5%;
+
+color: #413960;
+}
+
+.modern_psychology{
+    font-weight: 500;
+font-size: 24px;
+line-height: 36px;
+/* identical to box height */
+
+
+color: #413960;
+}
+
+.courses{
+    background: #FFFFFF;
+box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.1);
+border-radius: 18px;
+}
+
+footer{
+    height: 270px;
+    background: #282531;
+    color: white;
+}
+
+.footer li{
+    list-style: none;
+}
